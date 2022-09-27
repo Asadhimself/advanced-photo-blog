@@ -1,0 +1,17 @@
+#header{
+    background: royalblue;
+}
+
+div.breadcrumbs,
+.module h2, .module caption, .inline-group h2{
+    background: navy;
+}
+
+#branding h1 a:link, #branding h1 a:visited {
+    color: antiquewhite;
+}
+
+#nav-filter{
+    border-radius: 5px;
+    margin: 1em 0;
+}
